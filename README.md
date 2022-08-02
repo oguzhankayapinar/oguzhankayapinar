@@ -5,7 +5,10 @@
 ---
 
 
-* ![](https://komarev.com/ghpvc/?username=your-github-oguzhankayapinar&color=green)
+ ![](https://komarev.com/ghpvc/?username=your-github-oguzhankayapinar&color=green)
+ <br />
+
+---
 
 ### Reach me
 
