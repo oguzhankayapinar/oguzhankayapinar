@@ -17,6 +17,7 @@
 [<img height="32" width="42" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align = "left" style="margin-right:10px;" />](https://www.instagram.com/oguzhankayapinar/)
 
 <br />
+
 ---
 
 ### Languages and Tools
@@ -28,6 +29,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="45" align = "left" height="45">
 
 <br />
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhankayapinar)](https://github.com/oguzhankayapinar/github-readme-stats)
