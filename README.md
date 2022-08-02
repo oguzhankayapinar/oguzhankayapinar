@@ -4,6 +4,9 @@
 
 ---
 
+
+![](https://komarev.com/ghpvc/?username=your-github-oguzhankayapinar&color=green)
+
 ### Reach me
 
 [<img height="32" width="42" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" style="margin-right:10px;" />](https://www.linkedin.com/in/oguzhankayapinar/)
