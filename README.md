@@ -10,6 +10,7 @@
 
 [<img height="32" width="42" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align = "left" style="margin-right:10px;" />](https://www.instagram.com/oguzhankayapinar/)
 
+<br />
 
 ---
 
