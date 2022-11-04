@@ -1,6 +1,8 @@
 # Hi there 👋
 
-#### I am currently working on frontend technologies and aiming to specialize in this field. I have received online training from many institutions including Kodluyoruz,Btk Academy, Patika and Udemy for this. Technologies I have experienced in this process: HTML, CSS, Bootstrap, Javascript, React and React Native.
+####  I am currently working on frontend technologies and aiming to specialize in this field. 
+####  I have received online training from many institutions including Kodluyoruz,Btk Academy, Patika and Udemy for this. 
+####  Technologies I have experienced in this process: HTML, CSS, Bootstrap, Javascript, React and React Native.
 
 <br />
 
