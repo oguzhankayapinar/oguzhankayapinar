@@ -1,16 +1,10 @@
 # Hi there 👋
+<img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
-####  I am currently working on frontend technologies and aiming to specialize in this field. 
-####  I have received online training from many institutions including Kodluyoruz,Btk Academy, Patika and Udemy for this. 
-####  Technologies I have experienced in this process: HTML, CSS, Bootstrap, Javascript, React and React Native.
-
-<br />
-
----
-
-
- ![](https://komarev.com/ghpvc/?username=your-github-oguzhankayapinar&color=green)
- <br />
+> ####  I am currently working on frontend technologies and aiming to specialize in this field. 
+> ####  I have received online training from many institutions including Kodluyoruz,Btk Academy, Patika and Udemy for this. 
+> ####  Technologies I have experienced in this process: HTML, CSS, Bootstrap, Javascript, React and React Native.
+>![](https://komarev.com/ghpvc/?username=your-github-oguzhankayapinar&color=green)
 
 ---
 
